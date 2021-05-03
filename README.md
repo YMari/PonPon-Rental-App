@@ -6,5 +6,7 @@
 
 ## [Click here for the current application deployment](https://ponpon-kenneth-rosario.vercel.app/)
 
+### Worked while taking INSO4115 (Software Engineering Requirements) and INSO4117 (Software Reliability Testing) courses at UPRM, Spring 2021.
+
 PonPon's goal was to make a site that provided an opportunity for people to give their cars up for renting, as well as allowing people to rent other people's car in an easy and organized manner in Puerto Rico.
 
