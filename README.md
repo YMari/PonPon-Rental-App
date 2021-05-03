@@ -2,9 +2,11 @@
 
 ### Team Members: [Kathiana Díaz](https://github.com/kathianadiaz), [Kenneth Rosario](https://github.com/kenneth-rosario), [José Maldonado](https://github.com/jose-maldonado), [José Rivera](https://github.com/jvserivera), [José Vera](https://github.com/josevera7), [Yavier Mari](https://github.com/YMari)
 
-## [Click here for Application Video Demo](https://youtu.be/EaTASGQoZG0)
+## [Click Here for the Application Documentation](https://drive.google.com/file/d/11bRc7U3uLeY42uf5NKcZeRmlYaBEXDCf/view?usp=sharing)
 
-## [Click here for the current application deployment](https://ponpon-kenneth-rosario.vercel.app/)
+## [Click Here for Application Video Demo](https://youtu.be/EaTASGQoZG0)
+
+## [Click Here for the Current Application Deployment](https://ponpon-kenneth-rosario.vercel.app/)
 
 ### Worked while taking INSO4115 (Software Engineering Requirements) and INSO4117 (Software Reliability Testing) courses at UPRM, Spring 2021.
 
